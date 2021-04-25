@@ -5,7 +5,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/handokoadjipangestu/project-learn-codepolitan-codespace/fork)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Codespace is a geolocation harversine application for mapping bootcamp online around us. Map api use [heremaps](https://developer.here.com/) developer.
+Codespace is a geolocation harversine application for mapping bootcamp online around us. Map api use [Heremaps](https://developer.here.com/) developer.
 
 This project was made using [Laravel 7](https://laravel.com/docs/7.x/releases) Framework and for appearance it uses a [Bootstrap 4.\*](https://getbootstrap.com/docs/4.0/getting-started/introduction/) framework.
 
